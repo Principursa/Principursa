@@ -1,4 +1,7 @@
 ### Welcome to my page 
+Hi! 
+I'm a full-stack defi developer who focuses on EVM based chains.
+
 <!--
 **Principursa/Principursa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
